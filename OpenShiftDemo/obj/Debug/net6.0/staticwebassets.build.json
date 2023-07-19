@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7/H09i8cRJN/93XEDN5xBPC7XVTsODpb4VDulJ3URBE=",
+  "Source": "OpenShiftDemo",
+  "BasePath": "_content/OpenShiftDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
